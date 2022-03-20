@@ -1,0 +1,11 @@
+{
+  "name": "gds-html",
+  "version": "1.0.0",
+  "description": "basic html pages in GDS styles",
+  "main": "index.html",
+  "author": "Ieuan Payne",
+  "license": "ISC",
+  "dependencies": {
+    "govuk-frontend": "^4.0.1"
+  }
+}
